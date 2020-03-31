@@ -73,8 +73,6 @@ y *= 100000;
 
 % plot the data and the best-fit line
 figure;
-% set (0,'defaultaxesposition', [0.15, 0.1, 0.7, 0.7]);
-
 set (0,'defaultaxesposition', [0.15, 0.1, 0.7, 0.7]);
 
 plot(x, y, 'rx');
